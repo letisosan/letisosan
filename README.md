@@ -2,7 +2,7 @@
 
 **`Em formação`**
 
-Olá, eu sou a Letícia Souza, tenho 25 anos e sou natural de Londrina/PR. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo. Descobri meu encanto por tecnologia, quando precisei ter uma noção básica de HTML para editar os meus themes do tumblr. Você pode me econtrar também no "[instagram](https://https://www.instagram.com/letisoub/)"
+Olá, eu sou a Letícia Souza, tenho 25 anos e sou natural de Londrina/PR. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo. Descobri meu encanto por tecnologia, quando precisei ter uma noção básica de HTML para editar os meus themes do tumblr. Você pode me econtrar também no [instagram](https://https://www.instagram.com/letisoub/)
 
 ---
 
